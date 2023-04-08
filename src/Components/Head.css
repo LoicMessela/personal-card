@@ -1,0 +1,7 @@
+.head>img{
+    width:50vh; 
+    height:50vh;
+    /* object-fit: cover;
+    object-position: top; */
+    border-radius: 10px 10px 0px 0px;
+}

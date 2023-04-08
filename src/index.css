@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Inter';
+}
+
+#root{
+  padding:0;
+}
+
+body{
+  /* display: flex; */
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #23252C;
+  /* width: 50vh;
+  height: 868px;
+  margin: 0 auto; */
+  padding:0;
+  margin:0; 
+}
